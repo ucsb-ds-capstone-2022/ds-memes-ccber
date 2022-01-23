@@ -12,17 +12,17 @@ For your issue, add your name and embed the image using the syntax `![](image_ur
 
 ### Issue 1: Data Cleaning
 
-My name is Jonathan Wong and I've added this awesome image about data cleaning!
+My name is (NAME HERE) and I've added this awesome image about data cleaning!
 
-![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme3-small.jpeg)
+ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/meme3-small.jpeg
 
 ### Issue 2: Hypothesis Testing
 
 
-My name is Jonathan Wong.  Let me tell you how I feel about hypothesis testing:
+My name is (NAME HERE).  Let me tell you how I feel about hypothesis testing:
 
 
-![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme2-small.jpeg)
+ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/meme2-small.jpeg
 
 ### Issue 3: Skew
 
