@@ -27,10 +27,10 @@ My name is Jonathan Wong.  Let me tell you how I feel about hypothesis testing:
 ### Issue 3: Skew
 
 
-My name is (NAME HERE).  I've got thoguhts on skewed data.
+My name is Harper Klauke.  I've got thoguhts on skewed data.
 
 
-ADD IMAGE HERE.  URL is https://ucsb-ds-capstone-2021.github.io/slides/images/meme1-small.jpeg
+![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme1-small.jpeg)
 
 ### Issue 4: The best programming language
 
