@@ -40,10 +40,11 @@ My name is Harleen Kaur.  There's a lot of debate about which programming langau
 
 ### Issue 5: Best practices for coding
 
-My name is (NAME HERE).  When I don't comment my code I pay the price!
+My name is Nicholas Alexander.  When I don't comment my code I pay the price!
 
 ![](https://ucsb-ds-capstone-2021.github.io/slides/images/meme5-small.jpeg)
 
 ### Issue 6 (for the group): Your own meme
 
 As a group, find (or create) a better statistics meme and display it here.
+![](https://i.pinimg.com/736x/61/d8/cd/61d8cdbfa2bc7d40e93b47920f08edcd.jpg)
